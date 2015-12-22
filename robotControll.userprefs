@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="robotControll/robotControll.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="robotControll/robotclient.cs">
+    <Files>
+      <File FileName="robotControll/ViewController.cs" Line="97" Column="4" />
+      <File FileName="robotControll/robotclient.cs" Line="243" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

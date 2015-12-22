@@ -1,0 +1,4 @@
+/Users/wangshuzhu/Projects/robotControll/robotControll/obj/iPhone/Debug/build-iphone7.1-9.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/wangshuzhu/Projects/robotControll/robotControll/obj/iPhone/Debug/build-iphone7.1-9.1/mtouch-cache/Link/robotControll.exe
+/Users/wangshuzhu/Projects/robotControll/robotControll/obj/iPhone/Debug/build-iphone7.1-9.1/mtouch-cache/Link/System.dll
+/Users/wangshuzhu/Projects/robotControll/robotControll/obj/iPhone/Debug/build-iphone7.1-9.1/mtouch-cache/Link/mscorlib.dll
